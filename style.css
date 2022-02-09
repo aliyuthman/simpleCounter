@@ -1,0 +1,27 @@
+button {
+  color: rgb(219, 219, 219);
+  background-color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 3px;
+  font-weight: 50;
+  font-size: 0.8rem;
+  margin-top: 7px;
+}
+
+.screen {
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: 0.3px grey solid;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.counter {
+ 
+  text-align: center;
+  background-color: rgb(58, 58, 58);
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 110px;
+ 
+}
